@@ -1,8 +1,1 @@
-# hello-world
-
-This is a list
-* item 1
-* item 2
-* item 3
-
-This is **bold text**
+My name is Bradley Kovar. I am a Computer Science student at Lewis University, going for graduation in May of 2017. I have experiece coding in Java, C++ and Python. Additionally, I am currently learning how to write some code in Ruby. 
